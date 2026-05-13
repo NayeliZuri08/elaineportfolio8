@@ -1197,7 +1197,7 @@
     <div class="hero-photo-wrap">
       <div class="hero-photo-bg"></div>
       <div class="hero-photo-placeholder">
-        <img src="ELAINE.jpg" alt="Ma. Elaine Gay E. Viason - Data Operations Specialist" class="hero-photo">
+        <div class="ELAINE.jpg">EV</div>
         <div class="hero-name-card">
           <h3>Ma. Elaine Gay Viason</h3>
           <p>Data Ops · VA · Analytics</p>
